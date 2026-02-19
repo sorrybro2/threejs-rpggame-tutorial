@@ -1,34 +1,25 @@
-# Game Design Doc
+# 게임 디자인 문서
 
----
+## 목표
 
-## Objective
+- 게임 유형: 아이소메트릭 RPG
+- 아트 스타일: 로우폴리 스타일
+- 게임 맵: 그리드 기반 이동
 
----
+## 기능
 
-- Game Type: Isometric RPG
-- Art Style: Low-poly Style
-- Game Map: Grid-based movement
+- 절차적 생성 던전
+- 턴제 전투
+- 적/몬스터 (AI)
+- 인벤토리 / 전리품
+- 무기 (절차적 생성?)
+- 퀘스트
+- NPC
+- 마을
+- 캐릭터 스탯 / 직업
 
+## 개발 과정
 
-## Features
-
----
-
-- Procedural dungeons
-- Turn-based combat
-- Enemies/monsters (AI)
-- Inventory / Loot
-- Weapons (procedural?)
-- Quests
-- NPCs
-- Town
-- Character Stats / Classes
-
-## Development Process
-
----
-
-- Start simple
-- Build layer by layer
-- Focus on gameplay first, graphics and polish and optimization come later
+- 단순하게 시작하기
+- 단계별로 구축하기
+- 먼저 게임플레이에 집중하고, 그래픽·마무리·최적화는 나중에
